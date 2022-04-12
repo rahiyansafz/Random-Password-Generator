@@ -1,0 +1,3 @@
+﻿using RandomPasswordGenerator;
+
+App.Run();
